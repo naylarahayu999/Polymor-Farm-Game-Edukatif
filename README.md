@@ -30,4 +30,4 @@ Game Polymor-Farm menerapkan konsep dasar OOP sebagai berikut:
 ## 🛠️ Teknologi yang Digunakan
 - **Python**
 - **Pygame**
-- Konsep **Object-Oriented Programming (OOP)**
+- Konsep Object-Oriented Programming (OOP)
